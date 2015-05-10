@@ -1,0 +1,575 @@
+{
+    "version": {
+        "name": "mdJson",
+        "version": "1.0.0"
+    },
+    "contact": [
+        {
+            "contactId": "42",
+            "organizationName": "Arctic Landscape Conservation Cooperative",
+            "positionName": "",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/arcticlcc.org",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4560325",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "U.S. Fish & Wildlife Service",
+                    "1011 E. Tudor Rd"
+                ],
+                "city": "Anchorage",
+                "administrativeArea": "Alaska",
+                "postalCode": "99503",
+                "country": "United States",
+                "electronicMailAddress": [
+                    "staff@arcticlcc.org"
+                ]
+            }
+        },
+        {
+            "contactId": "114",
+            "organizationName": "Alaska Climate Science Center",
+            "positionName": "",
+            "address": {
+                "deliveryPoint": [
+                    "4210 University Drive"
+                ],
+                "city": "Anchorage",
+                "administrativeArea": "Alaska",
+                "postalCode": "99508-4626",
+                "country": "United States"
+            }
+        },
+        {
+            "contactId": "122",
+            "organizationName": "University of Alaska, Fairbanks -> Institute of Northern Engineering",
+            "positionName": "",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/ine.uaf.edu\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "539 Duckering Building",
+                    "306 Tanana Loop"
+                ],
+                "city": "Fairbanks",
+                "administrativeArea": "Alaska",
+                "postalCode": "99775-5910",
+                "country": "United States"
+            }
+        },
+        {
+            "contactId": "144",
+            "organizationName": "University of Alaska, Fairbanks -> Geographic Information Network of Alaska",
+            "positionName": "",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/www.gina.alaska.edu\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4746897",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "GINA WRRB 111",
+                    "909 Koyukuk Drive"
+                ],
+                "city": "Fairbanks",
+                "administrativeArea": "Alaska",
+                "postalCode": "99775-7275",
+                "country": "United States"
+            }
+        },
+        {
+            "contactId": "349",
+            "individualName": "Rosemary Madnick",
+            "organizationName": "University of Alaska, Fairbanks -> Office of Grants and Contracts Administration",
+            "positionName": "Director",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/www.uaf.edu\/grcon\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4747301",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "Office of Grants and Contracts Administration, University of Alaska Fairbanks",
+                    "909 Koyukuk Drive, 008 WRRB"
+                ],
+                "city": "Fairbanks",
+                "administrativeArea": "Alaska",
+                "postalCode": "99775-7880",
+                "country": "United States",
+                "electronicMailAddress": [
+                    "UAF-OGCA@alaska.edu"
+                ]
+            }
+        },
+        {
+            "contactId": "550",
+            "individualName": "Yuri Shur",
+            "organizationName": "University of Alaska, Fairbanks",
+            "positionName": "Professor",
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4747067",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "electronicMailAddress": [
+                    "yshur@alaska.edu"
+                ]
+            }
+        },
+        {
+            "contactId": "216",
+            "individualName": "Torre Jorgenson",
+            "organizationName": "",
+            "positionName": "",
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4556374",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "2332 Cordes Way"
+                ],
+                "city": "Fairbanks",
+                "administrativeArea": "Alaska",
+                "postalCode": "99709",
+                "country": "United States",
+                "electronicMailAddress": [
+                    "ecoscience@alaska.net"
+                ]
+            }
+        },
+        {
+            "contactId": "145",
+            "organizationName": "North Slope Science Initiative",
+            "positionName": "",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/www.northslope.org\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ]
+        },
+        {
+            "contactId": "215",
+            "individualName": "Mikhail Kanevskiy",
+            "organizationName": "University of Alaska, Fairbanks -> Institute of Northern Engineering",
+            "positionName": "Research Assistant Professor",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/ine.uaf.edu\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 4741905",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "deliveryPoint": [
+                    "237 Duckering Bldg",
+                    "PO Box 755910"
+                ],
+                "city": "Fairbanks",
+                "administrativeArea": "Alaska",
+                "postalCode": "99775",
+                "country": "United States",
+                "electronicMailAddress": [
+                    "mkanevskiy@alaska.edu"
+                ]
+            }
+        },
+        {
+            "contactId": "551",
+            "individualName": "Chien-Lu Ping",
+            "organizationName": "University of Alaska, Fairbanks",
+            "positionName": "Professor",
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 7469462",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "electronicMailAddress": [
+                    "cping@alaska.edu"
+                ]
+            }
+        },
+        {
+            "contactId": "143",
+            "individualName": "Jess Grunblatt",
+            "organizationName": "University of Alaska, Fairbanks -> Geographic Information Network of Alaska",
+            "positionName": "Information Specialist",
+            "onlineResource": [
+                {
+                    "uri": "http:\/\/www.gina.alaska.edu\/",
+                    "protocol": "http",
+                    "function": "information"
+                }
+            ],
+            "phoneBook": [
+                {
+                    "phoneNumber": "+1 907 2442435",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": {
+                "electronicMailAddress": [
+                    "jess@gina.alaska.edu"
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "metadataInfo": {
+            "metadataIdentifier": {
+                "identifier": "ff8bf2ad-d311-4a91-97f8-7c40e8cb170e",
+                "type": "uuid"
+            },
+            "metadataContact": [
+                {
+                    "contactId": "42",
+                    "role": "author"
+                }
+            ],
+            "metadataCreationDate": "2015-05-09T17:30:23-08:00",
+            "metadataLastUpdate": "2015-05-09T17:30:23-08:00",
+            "metadataCharacterSet": "utf8",
+            "metadataStatus": "completed",
+            "metadataMaintenance": {
+                "maintenanceFrequency": "asNeeded",
+                "maintenanceNote": [
+                    "Metadata records are generated from database"
+                ],
+                "maintenanceContact": [
+                    {
+                        "contactId": "42",
+                        "role": "author"
+                    }
+                ]
+            }
+        },
+        "resourceInfo": {
+            "resourceType": "project",
+            "citation": {
+                "title": "Permafrost Database Development, Characterization, and Mapping for Northern Alaska",
+                "date": [
+                    {
+                        "date": "2012-04-02",
+                        "dateType": "creation"
+                    }
+                ],
+                "responsibleParty": [
+                    {
+                        "contactId": "42",
+                        "role": "owner"
+                    },
+                    {
+                        "contactId": "42",
+                        "role": "funder"
+                    },
+                    {
+                        "contactId": "215",
+                        "role": "principalInvestigator"
+                    },
+                    {
+                        "contactId": "114",
+                        "role": "funder"
+                    },
+                    {
+                        "contactId": "145",
+                        "role": "funder"
+                    },
+                    {
+                        "contactId": "143",
+                        "role": "collaborator"
+                    },
+                    {
+                        "contactId": "550",
+                        "role": "collaborator"
+                    },
+                    {
+                        "contactId": "551",
+                        "role": "collaborator"
+                    },
+                    {
+                        "contactId": "144",
+                        "role": "dataDistributor"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "identifier": "ff8bf2ad-d311-4a91-97f8-7c40e8cb170e",
+                        "type": "uuid",
+                        "authority": {
+                            "title": "Arctic Landscape Conservation Cooperative",
+                            "date": [
+                                {
+                                    "date": "2012-04-02",
+                                    "dateType": "creation"
+                                }
+                            ],
+                            "responsibleParty": [
+                                {
+                                    "contactId": "42",
+                                    "role": "originator"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "identifier": "ALCC2012-10",
+                        "type": "projectCode",
+                        "authority": {
+                            "title": "Arctic Landscape Conservation Cooperative",
+                            "date": [
+                                {
+                                    "date": "2012-04-02",
+                                    "dateType": "creation"
+                                }
+                            ],
+                            "responsibleParty": [
+                                {
+                                    "contactId": "42",
+                                    "role": "originator"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "onlineResource": [
+                    {
+                        "uri": "http:\/\/arcticlcc.org\/projects\/ALCC2012-10",
+                        "protocol": "http",
+                        "name": "Project website",
+                        "description": "Web page with detailed information about the resource.",
+                        "function": "information"
+                    }
+                ]
+            },
+            "pointOfContact": [
+                {
+                    "contactId": "42",
+                    "role": "pointOfContact"
+                },
+                {
+                    "contactId": "216",
+                    "role": "pointOfContact"
+                }
+            ],
+            "abstract": "Information on the nature and distribution of permafrost is critical to assessing the response of Arctic ecosystems to climate change, because thawing permafrost under a warming climate will cause thaw settlement and affect micro-topography, surface water redistribution and groundwater movement, soil carbon balance, trace gas emissions, vegetation changes, and habitat use. While a small-scale regional permafrost map is available, as well as information from numerous site-specific large-scale mapping projects, landscape-level mapping of permafrost characteristics is needed for regional modeling and climate impact assessments. The project addresses this need by: (1) compiling existing soil\/permafrost data from available sources to create a region-wide permafrost database; (2) providing detailed descriptions of permafrost characteristics by terrain units; (3) developing permafrost maps through revision and attribution of an existing landscape-level map; (4) developing a prototype larger scale terrain unit map for a small area to evaluate methods and costs; (5) developing rule-based maps of permafrost vulnerability, and (6) distributing the database and maps through the Geographic Information Network for Alaska (GINA) website.",
+            "shortAbstract": "The Arctic LCC and Alaska Climate Science Center have partnered with UAF to develop a new landscape-level (1:1,000,000 scale) permafrost map for northern Alaska.",
+            "status": "onGoing",
+            "hasMapLocation": true,
+            "hasDataAvailable": true,
+            "language": [
+                "eng; USA"
+            ],
+            "keyword": [
+                {
+                    "keyword": [
+                        "GROUND ICE",
+                        "ACTIVE LAYER",
+                        "CRYOSPHERE",
+                        "PERMAFROST",
+                        "FROZEN GROUND",
+                        "LANDSCAPE PROCESSES",
+                        "GEOGRAPHIC INFORMATION SYSTEMS",
+                        "SEASONALLY FROZEN GROUND",
+                        "SOILS"
+                    ],
+                    "keywordType": "theme",
+                    "thesaurus": {
+                        "title": "NASA\/Global Change Master Directory (GCMD) Earth Science Keywords",
+                        "date": [
+                            {
+                                "date": "2013-04-01",
+                                "dateType": "revision"
+                            }
+                        ],
+                        "edition": "Version 8.0.0",
+                        "presentationForm": [
+                            "documentDigital"
+                        ],
+                        "onlineResource": [
+                            {
+                                "uri": "http:\/\/gcmd.nasa.gov\/learn\/keywords.html"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "spatialReferenceSystem": {
+                "epsgNumber": [
+                    4326
+                ]
+            },
+            "extent": [
+                {
+                    "description": "Project bounding box",
+                    "geographicElement": [
+                        {
+                            "type": "Feature",
+                            "bbox": [
+                                -166.90319788206,
+                                66.838873366685,
+                                -137.69957884973,
+                                71.784917980758
+                            ],
+                            "id": "boundingExtent",
+                            "geometry": null,
+                            "properties": {
+                                "description": "Project bounding box"
+                            },
+                            "crs": {
+                                "type": "name",
+                                "properties": {
+                                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": "Project locations",
+                    "geographicElement": [
+                        {
+                            "type": "FeatureCollection",
+                            "crs": {
+                                "type": "name",
+                                "properties": {
+                                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                                }
+                            },
+                            "features": [
+                                {
+                                    "type": "Feature",
+                                    "id": "polygon-3",
+                                    "geometry": {
+                                        "type": "Polygon",
+                                        "coordinates": [
+                                            [
+                                                [
+                                                    -137.699579,
+                                                    69.434506
+                                                ],
+                                                [
+                                                    -138.540698,
+                                                    67.613774
+                                                ],
+                                                [
+                                                    -145.159746,
+                                                    67.353539
+                                                ],
+                                                [
+                                                    -150.444418,
+                                                    66.838873
+                                                ],
+                                                [
+                                                    -158.639416,
+                                                    67.003381
+                                                ],
+                                                [
+                                                    -163.265084,
+                                                    66.884318
+                                                ],
+                                                [
+                                                    -164.291292,
+                                                    67.155482
+                                                ],
+                                                [
+                                                    -166.903198,
+                                                    68.337149
+                                                ],
+                                                [
+                                                    -166.171736,
+                                                    69.044415
+                                                ],
+                                                [
+                                                    -157.169251,
+                                                    71.784918
+                                                ],
+                                                [
+                                                    -137.699579,
+                                                    69.434506
+                                                ]
+                                            ]
+                                        ]
+                                    },
+                                    "properties": {
+                                        "featureName": "ALCC2012-10 boundary",
+                                        "description": "Area of interest: Northern Alaska, from the southern edge of the Brooks Range to the coast of the Beaufort Sea."
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "supplementalInfo": ""
+        },
+        "distributionInfo": [
+
+        ],
+        "associatedResource": [
+
+        ],
+        "additionalDocumentation": [
+
+        ]
+    }
+}
