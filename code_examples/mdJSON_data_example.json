@@ -1,0 +1,1496 @@
+{
+  "version" : {
+    "name" : "mdJson",
+    "version" : "1.0.0"
+  },
+  "contact" : [{
+      "contactId" : "42",
+      "organizationName" : "Arctic Landscape Conservation Cooperative",
+      "positionName" : "",
+      "onlineResource" : [{
+          "uri" : "http:\/\/arcticlcc.org",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4560325",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "U.S. Fish & Wildlife Service",
+          "1011 E. Tudor Rd"
+        ],
+        "city" : "Anchorage",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99503",
+        "country" : "United States",
+        "electronicMailAddress" : [
+          "staff@arcticlcc.org"
+        ]
+      }
+    }, {
+      "contactId" : "114",
+      "organizationName" : "Alaska Climate Science Center",
+      "positionName" : "",
+      "address" : {
+        "deliveryPoint" : [
+          "4210 University Drive"
+        ],
+        "city" : "Anchorage",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99508-4626",
+        "country" : "United States"
+      }
+    }, {
+      "contactId" : "122",
+      "organizationName" : "University of Alaska, Fairbanks -> Institute of Northern Engineering",
+      "positionName" : "",
+      "onlineResource" : [{
+          "uri" : "http:\/\/ine.uaf.edu\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "539 Duckering Building",
+          "306 Tanana Loop"
+        ],
+        "city" : "Fairbanks",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99775-5910",
+        "country" : "United States"
+      }
+    }, {
+      "contactId" : "144",
+      "organizationName" : "University of Alaska, Fairbanks -> Geographic Information Network of Alaska",
+      "positionName" : "",
+      "onlineResource" : [{
+          "uri" : "http:\/\/www.gina.alaska.edu\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4746897",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "GINA WRRB 111",
+          "909 Koyukuk Drive"
+        ],
+        "city" : "Fairbanks",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99775-7275",
+        "country" : "United States"
+      }
+    }, {
+      "contactId" : "349",
+      "individualName" : "Rosemary Madnick",
+      "organizationName" : "University of Alaska, Fairbanks -> Office of Grants and Contracts Administration",
+      "positionName" : "Director",
+      "onlineResource" : [{
+          "uri" : "http:\/\/www.uaf.edu\/grcon\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4747301",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "Office of Grants and Contracts Administration, University of Alaska Fairbanks",
+          "909 Koyukuk Drive, 008 WRRB"
+        ],
+        "city" : "Fairbanks",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99775-7880",
+        "country" : "United States",
+        "electronicMailAddress" : [
+          "UAF-OGCA@alaska.edu"
+        ]
+      }
+    }, {
+      "contactId" : "550",
+      "individualName" : "Yuri Shur",
+      "organizationName" : "University of Alaska, Fairbanks",
+      "positionName" : "Professor",
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4747067",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "electronicMailAddress" : [
+          "yshur@alaska.edu"
+        ]
+      }
+    }, {
+      "contactId" : "216",
+      "individualName" : "Torre Jorgenson",
+      "organizationName" : "",
+      "positionName" : "",
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4556374",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "2332 Cordes Way"
+        ],
+        "city" : "Fairbanks",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99709",
+        "country" : "United States",
+        "electronicMailAddress" : [
+          "ecoscience@alaska.net"
+        ]
+      }
+    }, {
+      "contactId" : "145",
+      "organizationName" : "North Slope Science Initiative",
+      "positionName" : "",
+      "onlineResource" : [{
+          "uri" : "http:\/\/www.northslope.org\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ]
+    }, {
+      "contactId" : "215",
+      "individualName" : "Mikhail Kanevskiy",
+      "organizationName" : "University of Alaska, Fairbanks -> Institute of Northern Engineering",
+      "positionName" : "Research Assistant Professor",
+      "onlineResource" : [{
+          "uri" : "http:\/\/ine.uaf.edu\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 4741905",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "deliveryPoint" : [
+          "237 Duckering Bldg",
+          "PO Box 755910"
+        ],
+        "city" : "Fairbanks",
+        "administrativeArea" : "Alaska",
+        "postalCode" : "99775",
+        "country" : "United States",
+        "electronicMailAddress" : [
+          "mkanevskiy@alaska.edu"
+        ]
+      }
+    }, {
+      "contactId" : "551",
+      "individualName" : "Chien-Lu Ping",
+      "organizationName" : "University of Alaska, Fairbanks",
+      "positionName" : "Professor",
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 7469462",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "electronicMailAddress" : [
+          "cping@alaska.edu"
+        ]
+      }
+    }, {
+      "contactId" : "143",
+      "individualName" : "Jess Grunblatt",
+      "organizationName" : "University of Alaska, Fairbanks -> Geographic Information Network of Alaska",
+      "positionName" : "Information Specialist",
+      "onlineResource" : [{
+          "uri" : "http:\/\/www.gina.alaska.edu\/",
+          "protocol" : "http",
+          "function" : "information"
+        }
+      ],
+      "phoneBook" : [{
+          "phoneNumber" : "+1 907 2442435",
+          "service" : [
+            "voice"
+          ]
+        }
+      ],
+      "address" : {
+        "electronicMailAddress" : [
+          "jess@gina.alaska.edu"
+        ]
+      }
+    }
+  ],
+  "metadata" : {
+    "metadataInfo" : {
+      "metadataIdentifier" : {
+        "identifier" : "f373f7d2-21f5-416b-96d8-b4d4114c62c9",
+        "type" : "uuid"
+      },
+      "metadataContact" : [{
+          "contactId" : "42",
+          "role" : "author"
+        }
+      ],
+      "metadataCreationDate" : "2015-04-22T12:04:25-07:00",
+      "metadataLastUpdate" : "2015-04-22T12:04:25-07:00",
+      "metadataCharacterSet" : "utf8",
+      "metadataStatus" : "completed",
+      "metadataMaintenance" : {
+        "maintenanceFrequency" : "asNeeded",
+        "maintenanceNote" : [
+          "Metadata records are generated from database"
+        ],
+        "maintenanceContact" : [{
+            "contactId" : "42",
+            "role" : "author"
+          }
+        ]
+      }
+    },
+    "resourceInfo" : {
+      "resourceType" : "dataset",
+      "citation" : {
+        "title" : "Permafrost Soils Database for Northern Alaska 2014",
+        "date" : [{
+            "date" : "2012-12-12",
+            "dateType" : "lastUpdate"
+          }
+        ],
+        "responsibleParty" : [{
+            "contactId" : "42",
+            "role" : "owner"
+          }, {
+            "contactId" : "42",
+            "role" : "funder"
+          }, {
+            "contactId" : "215",
+            "role" : "principalInvestigator"
+          }, {
+            "contactId" : "114",
+            "role" : "funder"
+          }, {
+            "contactId" : "145",
+            "role" : "funder"
+          }, {
+            "contactId" : "143",
+            "role" : "collaborator"
+          }, {
+            "contactId" : "550",
+            "role" : "collaborator"
+          }, {
+            "contactId" : "551",
+            "role" : "collaborator"
+          }, {
+            "contactId" : "144",
+            "role" : "distributor"
+          }
+        ],
+        "identifier" : [{
+            "identifier" : "f373f7d2-21f5-416b-96d8-b4d4114c62c9",
+            "type" : "uuid",
+            "authority" : {
+              "title" : "Arctic Landscape Conservation Cooperative",
+              "date" : [{
+                  "date" : "2015-04-22",
+                  "dateType" : "creation"
+                }
+              ],
+              "responsibleParty" : [{
+                  "contactId" : "42",
+                  "role" : "originator"
+                }
+              ]
+            }
+          }, {
+            "identifier" : "ALCC2012-10",
+            "type" : "projectCode",
+            "authority" : {
+              "title" : "Arctic Landscape Conservation Cooperative",
+              "date" : [{
+                  "date" : "2012-04-02",
+                  "dateType" : "creation"
+                }
+              ],
+              "responsibleParty" : [{
+                  "contactId" : "42",
+                  "role" : "originator"
+                }
+              ]
+            }
+          }
+        ],
+        "onlineResource" : [{
+            "uri" : "http:\/\/arcticlcc.org\/projects\/ALCC2012-10",
+            "protocol" : "http",
+            "name" : "Project website",
+            "description" : "Web page with detailed information about the resource.",
+            "function" : "information"
+          }
+        ]
+      },
+      "pointOfContact" : [{
+          "contactId" : "42",
+          "role" : "pointOfContact"
+        }, {
+          "contactId" : "216",
+          "role" : "pointOfContact"
+        }
+      ],
+      "abstract" : "This database contains soil and permafrost stratigraphy for northern Alaska compiled from numerous project data files and reports. The Access Database has main data tables (tbl_) for site (environmental), soil stratigraphy, soil physical data, soil chemical data, soil radiocarbon dates, and vegetation cover. The Site data includes information of location, observers, geomorphology, topography, hydrology, soil summary characteristics, pH and EC, soil classification, and vegetation cover by species. Soil stratigraphy has information on soil texture and ground ice. Soil physical and chemical data includes lab data on bulk density, moisture, carbon, and nitrogen. The database has 38 reference tables (REF_) that have codes and descriptions for variables used in site, soil stratigraphy, and vegetation cover tables. Query tables (qry_) are used to link data tables and reference tables to display data with names instead of codes.",
+      "status" : "onGoing",
+      "hasMapLocation" : true,
+      "hasDataAvailable" : true,
+      "language" : [
+        "eng; USA"
+      ],
+      "keyword" : [{
+          "keyword" : [
+            "GROUND ICE",
+            "ACTIVE LAYER",
+            "CRYOSPHERE",
+            "PERMAFROST",
+            "FROZEN GROUND",
+            "SEASONALLY FROZEN GROUND",
+            "SOILS",
+            "LANDSCAPE PROCESSES",
+            "GEOGRAPHIC INFORMATION SYSTEMS"
+          ],
+          "keywordType" : "theme",
+          "thesaurus" : {
+            "title" : "NASA\/Global Change Master Directory (GCMD) Earth Science Keywords",
+            "date" : [{
+                "date" : "2013-04-01",
+                "dateType" : "revision"
+              }
+            ],
+            "edition" : "Version 8.0.0",
+            "presentationForm" : [
+              "documentDigital"
+            ],
+            "onlineResource" : [{
+                "uri" : "http:\/\/gcmd.nasa.gov\/learn\/keywords.html"
+              }
+            ]
+          }
+        }
+      ],
+      "spatialReferenceSystem" : {
+        "epsgNumber" : [
+          4326
+        ]
+      },
+      "extent" : [{
+          "description" : "Project bounding box",
+          "geographicElement" : [{
+              "type" : "Feature",
+              "bbox" : [
+                -166.90319788206,
+                66.838873366685,
+                -137.69957884973,
+                71.784917980758
+              ],
+              "id" : "boundingExtent",
+              "geometry" : null,
+              "properties" : {
+                "description" : "Project bounding box"
+              },
+              "crs" : {
+                "type" : "name",
+                "properties" : {
+                  "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+              }
+            }
+          ]
+        }, {
+          "description" : "Project locations",
+          "geographicElement" : [{
+              "type" : "FeatureCollection",
+              "crs" : {
+                "type" : "name",
+                "properties" : {
+                  "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+              },
+              "features" : [{
+                  "type" : "Feature",
+                  "id" : "polygon-3",
+                  "geometry" : {
+                    "type" : "Polygon",
+                    "coordinates" : [
+                      [
+                        [
+                          -137.699579,
+                          69.434506
+                        ],
+                        [
+                          -138.540698,
+                          67.613774
+                        ],
+                        [
+                          -145.159746,
+                          67.353539
+                        ],
+                        [
+                          -150.444418,
+                          66.838873
+                        ],
+                        [
+                          -158.639416,
+                          67.003381
+                        ],
+                        [
+                          -163.265084,
+                          66.884318
+                        ],
+                        [
+                          -164.291292,
+                          67.155482
+                        ],
+                        [
+                          -166.903198,
+                          68.337149
+                        ],
+                        [
+                          -166.171736,
+                          69.044415
+                        ],
+                        [
+                          -157.169251,
+                          71.784918
+                        ],
+                        [
+                          -137.699579,
+                          69.434506
+                        ]
+                      ]
+                    ]
+                  },
+                  "properties" : {
+                    "featureName" : "ALCC2012-10 boundary",
+                    "description" : "Area of interest: Northern Alaska, from the southern edge of the Brooks Range to the coast of the Beaufort Sea."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "supplementalInfo" : "The database has 39 reference tables (REF_) that have codes and descriptions for variables used in site, soil stratigraphy, and vegetation cover tables. The reference tables are grouped by Site, Soil, and Vegetation. When coding uses standard codes or terms, the sources are referenced. Tables can be viewed by selecting Tables in left side navigation pane. The database has 8 main data tables (tbl_) for data sources, site (environmental), soil stratigraphy, soil physical, soil chemical, soil C14 dates, vegetation structure, and vegetation cover. The data tables have widely varying levels of completeness depending on data source. The variables are described and units specified for each table; this metadata can be viewed by right clicking on a table and opening in Design View. Queries allow the linking of reference table names with site, soil, and vegetation tables. One query available displays the site information with the class names instead of codes. Forms are available for viewing data from the Data Sources table and for viewing a linked set of all data available from the Site, Stratigraphy, and Vegetation tables. Four subforms were created to display the data in the frm_Site Data Viewer with codes."
+    },
+    "distributionInfo" : [{
+        "distributorContact" : {
+          "contactId" : "42",
+          "role" : "publisher"
+        },
+        "distributionOrderProcess" : [{
+            "fees" : "None"
+          }
+        ],
+        "distributorFormat" : [{
+            "formatName" : "Microsoft Access Database",
+            "version" : "14(2010)"
+          }
+        ],
+        "distributorTransferOptions" : [{
+            "online" : [{
+                "uri" : "http://arcticlcc.org/projects/ALCC2012-10",
+                "protocol" : "http",
+                "name" : "Project website",
+                "description" : "This page provides information about downloading the dataset",
+                "function" : "download"
+              }
+            ]
+          }
+        ]
+      }, {
+        "distributorContact" : {
+          "contactId" : "144",
+          "role" : "distributor"
+        },
+        "distributionOrderProcess" : [{
+            "fees" : "None"
+          }
+        ],
+        "distributorFormat" : [{
+            "formatName" : "Microsoft Access Database",
+            "version" : "14(2010)"
+          }
+        ],
+        "distributorTransferOptions" : [{
+            "online" : [{
+                "uri" : "http://alaska.portal.gina.alaska.edu/catalogs/9630-2014-permafrost-database-development-charact/downloads/50788472-8b09-3087-8aa4-022f60ae39e3",
+                "protocol" : "http",
+                "name" : "Alaska Science Catalog Download",
+                "description" : "Direct link to the dataset",
+                "function" : "fileAccess"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "associatedResource" : [{
+        "associationType" : "crossReference",
+        "initiativeType" : "project",
+        "resourceType" : "website",
+        "resourceCitation" : {
+          "title" : "Permafrost Field Sites and Ecological Mapping Web Portal",
+          "date" : [{
+              "date" : "2014",
+              "dateType" : "creation"
+            }
+          ],
+          "responsibleParty" : [{
+              "contactId" : "143",
+              "role" : "pointOfContact"
+            }
+          ],
+          "presentationForm" : [
+            "digitalData"
+          ],
+          "onlineResource" : [{
+              "uri" : "http://arc-sctc.gina.alaska.edu/NSPermafrost/",
+              "protocol" : "http",
+              "description" : "This WebMap displays landscape level data layers developed under collaborative funding that included North Slope Science Initiative (NSSI), the Arctic Landscape Conservation Cooperative (ALCC), the National Fish and Wildlife Foundation (NFWF), Bureau of Land Management (BLM) and US Fish and Wildlife Service (USFWS).",
+              "function" : "webApplication"
+            }
+          ]
+        }
+      }, {
+        "associationType" : "largerWorkCitation",
+        "initiativeType" : "project",
+        "resourceType" : "project",
+        "resourceCitation" : {
+          "title" : "Permafrost Database Development, Characterization, and Mapping for Northern Alaska",
+          "date" : [{
+              "date" : "2012-04-02",
+              "dateType" : "creation"
+            }
+          ],
+          "responsibleParty" : [{
+              "contactId" : "42",
+              "role" : "owner"
+            }, {
+              "contactId" : "42",
+              "role" : "funder"
+            }, {
+              "contactId" : "215",
+              "role" : "principalInvestigator"
+            }, {
+              "contactId" : "114",
+              "role" : "funder"
+            }, {
+              "contactId" : "145",
+              "role" : "funder"
+            }, {
+              "contactId" : "143",
+              "role" : "collaborator"
+            }, {
+              "contactId" : "550",
+              "role" : "collaborator"
+            }, {
+              "contactId" : "551",
+              "role" : "collaborator"
+            }, {
+              "contactId" : "144",
+              "role" : "dataDistributor"
+            }
+          ],
+          "identifier" : [{
+              "identifier" : "ff8bf2ad-d311-4a91-97f8-7c40e8cb170e",
+              "type" : "uuid",
+              "authority" : {
+                "title" : "Arctic Landscape Conservation Cooperative",
+                "date" : [{
+                    "date" : "2012-04-02",
+                    "dateType" : "creation"
+                  }
+                ],
+                "responsibleParty" : [{
+                    "contactId" : "42",
+                    "role" : "originator"
+                  }
+                ]
+              }
+            }, {
+              "identifier" : "ALCC2012-10",
+              "type" : "projectCode",
+              "authority" : {
+                "title" : "Arctic Landscape Conservation Cooperative",
+                "date" : [{
+                    "date" : "2012-04-02",
+                    "dateType" : "creation"
+                  }
+                ],
+                "responsibleParty" : [{
+                    "contactId" : "42",
+                    "role" : "originator"
+                  }
+                ]
+              }
+            }
+          ],
+          "onlineResource" : [{
+              "uri" : "http:\/\/arcticlcc.org\/projects\/ALCC2012-10",
+              "protocol" : "http",
+              "name" : "Project website",
+              "description" : "Web page with detailed information about the resource.",
+              "function" : "information"
+            }
+          ]
+        }
+      }
+    ],
+    "additionalDocumentation" : [
+
+    ]
+  },
+  "dataDictionary" : [{
+      "dictionaryInfo" : {
+        "citation" : {
+          "title" : "Data Dictionary for Permafrost_Soils_Database_Northern_Alaska_20141212.mdb, ELS_Master_Database, MSAccess Version 14.0",
+          "date" : [{
+              "date" : "2015-05-08T11:56:03",
+              "dateType" : "creation"
+            }
+          ]
+        },
+        "description" : "This data dictionary was automatically generated from database via Visual Basic script.",
+        "resourceType" : "database",
+        "language" : "eng; US"
+      },
+      "entity" : [{
+          "entityId" : "0C2F6B03-9A3A-447C-A71C-D3A15BE77087",
+          "commonName" : "",
+          "codeName" : "REF_Site_Chemistry",
+          "definition" : "",
+          "index" : [{
+              "codeName" : "che_code",
+              "allowDuplicates" : false,
+              "attributeCodeName" : ["SiteChem_Code"]
+            }
+          ],
+          "attribute" : [{
+              "commonName" : "SiteChem_Code",
+              "codeName" : "SiteChem_Code",
+              "definition" : "One letter code for Site Chemistry",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteChem_Name",
+              "codeName" : "SiteChem_Name",
+              "definition" : "Full Site Chemistry Names",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteChem_Descr",
+              "codeName" : "SiteChem_Descr",
+              "definition" : "Site Chemistry definitions",
+              "dataType" : "Text",
+              "allowNull" : true
+            }
+          ],
+          "foreignKey" : [
+          ]
+        }, {
+          "entityId" : "2FAFEDA9-45D8-4436-BC0A-AD12D7FB98DA",
+          "commonName" : "",
+          "codeName" : "REF_Site_Disturbance",
+          "definition" : "",
+          "index" : [{
+              "codeName" : "Code",
+              "allowDuplicates" : false,
+              "attributeCodeName" : ["Disturb_Code"]
+            }
+          ],
+          "attribute" : [{
+              "commonName" : "Disturb_Code",
+              "codeName" : "Disturb_Code",
+              "definition" : "Code for disturbance class",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Disturb_Name",
+              "codeName" : "Disturb_Name",
+              "definition" : "Name for disturbance class",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Disturb_Level",
+              "codeName" : "Disturb_Level",
+              "definition" : "Hierarchical level",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Disturb_Descr",
+              "codeName" : "Disturb_Descr",
+              "definition" : "Name for class",
+              "dataType" : "Text",
+              "allowNull" : true
+            }
+          ],
+          "foreignKey" : [
+          ]
+        }, {
+          "entityId" : "BCE36FB4-7040-429F-B8D0-37E0D1707006",
+          "commonName" : "",
+          "codeName" : "REF_Site_Drainage",
+          "definition" : "",
+          "primaryKeyAttributeCodeName" : ["Drainage_Code"],
+          "index" : [{
+              "codeName" : "Drainage code",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["Drainage_Code"]
+            }
+          ],
+          "attribute" : [{
+              "commonName" : "Drainage_Code",
+              "codeName" : "Drainage_Code",
+              "definition" : "Code for drainage class, NRCS",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Drainage_Name",
+              "codeName" : "Drainage_Name",
+              "definition" : "Name for drainage class, NRCS",
+              "dataType" : "Text",
+              "allowNull" : true
+            }
+          ],
+          "foreignKey" : [
+          ]
+        },{
+          "entityId" : "90FA4243-9FF2-4503-B86C-B4776DE7EB8F",
+          "commonName" : "",
+          "codeName" : "tbl_Data_Sources",
+          "definition" : "",
+          "attribute" : [{
+              "commonName" : "Project Title",
+              "codeName" : "Project Title",
+              "definition" : "Short title for project",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Project Leader",
+              "codeName" : "Project Leader",
+              "definition" : "Leader of project",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Personnel",
+              "codeName" : "Personnel",
+              "definition" : "Other main personnel involved in data collection",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "Organization",
+              "codeName" : "Organization",
+              "definition" : "Organization or institution",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Contact Info",
+              "codeName" : "Contact Info",
+              "definition" : "Contact info for project leader",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Contact Email",
+              "codeName" : "Contact Email",
+              "definition" : "Email for project leader",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Date Range",
+              "codeName" : "Date Range",
+              "definition" : "Date range data were collected",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Geographic Location",
+              "codeName" : "Geographic Location",
+              "definition" : "General location or region where data were collected",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Citation1",
+              "codeName" : "Citation1",
+              "definition" : "Citation of data source or publication using data",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "Citation2",
+              "codeName" : "Citation2",
+              "definition" : "Citation of data source or publication using data",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "Citation3",
+              "codeName" : "Citation3",
+              "definition" : "Citation of data source or publication using data",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "Citation4",
+              "codeName" : "Citation4",
+              "definition" : "Citation of data source or publication using data",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }
+          ],
+          "foreignKey" : [
+          ]
+        }, {
+          "entityId" : "4C72220C-1C92-4AD3-B863-56FAF4A0E765",
+          "commonName" : "",
+          "codeName" : "tbl_Site",
+          "definition" : "",
+          "primaryKeyAttributeCodeName" : ["SiteID"],
+          "index" : [{
+              "codeName" : "Cutpoint",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["VegClass4Alt"]
+            }, {
+              "codeName" : "DisturbClass",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["DisturbClass"]
+            }, {
+              "codeName" : "DomMineral40",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilTxtMin40"]
+            }, {
+              "codeName" : "DomText40",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilTxtDom40"]
+            }, {
+              "codeName" : "FieldID",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SiteID_fld"]
+            }, {
+              "codeName" : "fnl_Unique",
+              "allowDuplicates" : false,
+              "attributeCodeName" : ["SiteID"]
+            }, {
+              "codeName" : "MacroTopo",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["TopoMacro"]
+            }, {
+              "codeName" : "Microtopo",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["TopoMicro"]
+            }, {
+              "codeName" : "REF_DisturbClasstbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["DisturbClass"]
+            }, {
+              "codeName" : "REF_Ecotype_Veg_Structurestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["VegStruct"]
+            }, {
+              "codeName" : "REF_MacrotopographyCodestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["TopoMacro"]
+            }, {
+              "codeName" : "REF_MicrotopographyCodestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["TopoMicro"]
+            }, {
+              "codeName" : "REF_NWIWaterRegimeCodestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["WaterRegNWI"]
+            }, {
+              "codeName" : "REF_PhysiographyCodestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["Physiog"]
+            }, {
+              "codeName" : "REF_SampleMethtbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilMethod"]
+            }, {
+              "codeName" : "REF_SiteChemistrytbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SiteChem"]
+            }, {
+              "codeName" : "ref_soil_codetbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilClassFld"]
+            }, {
+              "codeName" : "REF_SoilMoistureCodestbl_ELS_Final_Plot_Data",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilMoisture"]
+            }, {
+              "codeName" : "SiteChemistry",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SiteChem"]
+            }, {
+              "codeName" : "SoilClass2003",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["SoilClassFld"]
+            }, {
+              "codeName" : "SubGeomUnit",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["GeomSub"]
+            }, {
+              "codeName" : "SurfGeomUnit",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["GeomSurf"]
+            }, {
+              "codeName" : "VegClass4",
+              "allowDuplicates" : true,
+              "attributeCodeName" : ["VegClass4"]
+            }
+          ],
+          "attribute" : [{
+              "commonName" : "SiteID",
+              "codeName" : "SiteID",
+              "definition" : "Site ID, often concatenated field using Project Code and Plot ID",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteID-Short",
+              "codeName" : "SiteID-Short",
+              "definition" : "Short version of SiteID useful for column viewing",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteID_fld",
+              "codeName" : "SiteID_fld",
+              "definition" : "Original Field ID",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Data_Origin",
+              "codeName" : "Data_Origin",
+              "definition" : "Company, institute or individual from whom the data were acquired",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Project",
+              "codeName" : "Project",
+              "definition" : "Project short name",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Date",
+              "codeName" : "Date",
+              "definition" : "Date and time of field work, mmddyyyy hh:mm",
+              "dataType" : "Date/Time",
+              "allowNull" : true
+            }, {
+              "commonName" : "Year",
+              "codeName" : "Year",
+              "definition" : "Year of project",
+              "dataType" : "Long Integer",
+              "allowNull" : true
+            }, {
+              "commonName" : "ObservEnv",
+              "codeName" : "ObservEnv",
+              "definition" : "Environmental Variable observer initials",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "ObservVeg",
+              "codeName" : "ObservVeg",
+              "definition" : "Vegetation species and structure observer initials",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "ObservSoil",
+              "codeName" : "ObservSoil",
+              "definition" : "Soil, permafrost observer",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Loc_Ecoregion",
+              "codeName" : "Loc_Ecoregion",
+              "definition" : "Ecoregion based on Nowacki et al. 2001",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Loc_Landmark",
+              "codeName" : "Loc_Landmark",
+              "definition" : "Geographic landmark description",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Loc_Code",
+              "codeName" : "Loc_Code",
+              "definition" : "Four letter project or study area identification code",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "LatWGS84",
+              "codeName" : "LatWGS84",
+              "definition" : "Latitude WGS84 GPS coordinates, decimal degrees",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "LonWGS84",
+              "codeName" : "LonWGS84",
+              "definition" : "Longitude WGS84 GPS coordinates, decimal degrees",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "ElevGPS",
+              "codeName" : "ElevGPS",
+              "definition" : "Elevation recorded from field GPS unit",
+              "dataType" : "Single",
+              "allowNull" : true
+            }, {
+              "commonName" : "PlotType",
+              "codeName" : "PlotType",
+              "definition" : "Plot type (T, transect; V,Verification; A, Air survey)",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "PlotSize",
+              "codeName" : "PlotSize",
+              "definition" : "Plot size, radius or Length X Width in meters",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Slope",
+              "codeName" : "Slope",
+              "definition" : "Slope in degrees",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "Aspect",
+              "codeName" : "Aspect",
+              "definition" : "Aspect in degrees, if slope = 0, aspect also = 0 (not north)",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "Physiog",
+              "codeName" : "Physiog",
+              "definition" : "Revised Physiography codes for final report",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "GeomSurf",
+              "codeName" : "GeomSurf",
+              "definition" : "Final Revised Codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "GeomSurfAlt",
+              "codeName" : "GeomSurfAlt",
+              "definition" : "Alternative geomorph class, when they are cutpoint problems",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "GeomSurfFld",
+              "codeName" : "GeomSurfFld",
+              "definition" : "Field, original from source material, for geomorphic unit",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "GeomSub",
+              "codeName" : "GeomSub",
+              "definition" : "Final Revised Codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "GeomDom",
+              "codeName" : "GeomDom",
+              "definition" : "Dominant geomorphic unit in multi-layered system that best represents site characteristics, see final revised codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "TopoMacro",
+              "codeName" : "TopoMacro",
+              "definition" : "Macrotopography, see reference codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "TopoMicro",
+              "codeName" : "TopoMicro",
+              "definition" : "Microtopography, see reference codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "TopoRelief",
+              "codeName" : "TopoRelief",
+              "definition" : "Micro-relief, cm, measurement of typical surface roughness",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "TK-Stage",
+              "codeName" : "TK-Stage",
+              "definition" : "Thermokarst or degradation stage, see reference table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SurfRock",
+              "codeName" : "SurfRock",
+              "definition" : "% cover of surface frags, visually estimate",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SurfFrostScar",
+              "codeName" : "SurfFrostScar",
+              "definition" : "% cover of active partially vegetated frost boils, visually estimate ",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "WatDep",
+              "codeName" : "WatDep",
+              "definition" : "Water depth, cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "WatAbvBlw",
+              "codeName" : "WatAbvBlw",
+              "definition" : "Water depth above or below the soil surface (A/B/U)",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WatSat30",
+              "codeName" : "WatSat30",
+              "definition" : "soil saturated in upper 30 cm. yes/no/unknown",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WaterRegNWI",
+              "codeName" : "WaterRegNWI",
+              "definition" : "National Wetlands inventory hydrology regime, see REF_NWIWaterRegimeCodes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WaterpH",
+              "codeName" : "WaterpH",
+              "definition" : "pH measured in surface or ground water, where present",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "WaterEC",
+              "codeName" : "WaterEC",
+              "definition" : "EC measured in surface or ground water, where present, uS/cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilpH10",
+              "codeName" : "SoilpH10",
+              "definition" : "Soil pH measured in saturated soil slurry, usually when ground water not present",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilpH40",
+              "codeName" : "SoilpH40",
+              "definition" : "soil pH measured from 40cm below soil surface, 30 cm if 40 not available",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilEC10",
+              "codeName" : "SoilEC10",
+              "definition" : "Soil EC measure in saturated soil slurry, usually when ground water not present, uS/cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilpHGrad",
+              "codeName" : "SoilpHGrad",
+              "definition" : "Soil pH at 10 cm - Soil pH at 40 cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SitepH",
+              "codeName" : "SitepH",
+              "definition" : "Water pH or soil slurry pH, water used preferentially when available",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteEC",
+              "codeName" : "SiteEC",
+              "definition" : "Water EC or soil slurry EC, water used preferentially when available, uS/cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SiteChem",
+              "codeName" : "SiteChem",
+              "definition" : "Site chemistry grouping: a=Alkaline; b=Basic; c=Circuneutral; s=Saline; e=brackish (see Ref_SiteChemistry for definitions)",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilMotlDep",
+              "codeName" : "SoilMotlDep",
+              "definition" : "Depth to low chroma mottles, cm",
+              "dataType" : "Integer",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilGleyDep",
+              "codeName" : "SoilGleyDep",
+              "definition" : "Depth to low chroma matrix, fully gleyed, cm",
+              "dataType" : "Integer",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilDrainage",
+              "codeName" : "SoilDrainage",
+              "definition" : "Drainage regime, see reference codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilMoisture",
+              "codeName" : "SoilMoisture",
+              "definition" : "Soil Moisture regime, see reference codes",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilHydric",
+              "codeName" : "SoilHydric",
+              "definition" : "yes/no/unknown",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilOrgSurfThk",
+              "codeName" : "SoilOrgSurfThk",
+              "definition" : "Surface organic horizon thickness, cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilOrgCum40",
+              "codeName" : "SoilOrgCum40",
+              "definition" : "Cumulative thickness of organic horizons in upper 40 cm, cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilTxtMin40",
+              "codeName" : "SoilTxtMin40",
+              "definition" : "Dominant mineral texture (text of thickest mineral layer), see REF_Site_DomText reference table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilTxtDom40",
+              "codeName" : "SoilTxtDom40",
+              "definition" : "Dominant soil texture, see REF_Site_DomText reference table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilCryoturb",
+              "codeName" : "SoilCryoturb",
+              "definition" : "Cryoturbation observed in soil profile,yes/no/unknown",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilSiltThk",
+              "codeName" : "SoilSiltThk",
+              "definition" : "Thickness of surface wind blown silt, cm",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilRockDep",
+              "codeName" : "SoilRockDep",
+              "definition" : "Depth to rocks from surface (>15% coarse frags), in cm, where field depths were described with a > symbol the final rock depth was assumed to be 200cm.",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilThawDep",
+              "codeName" : "SoilThawDep",
+              "definition" : "Thaw depth, cm; 9999 if no frost observed within observation depth",
+              "dataType" : "Double",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilObsDep",
+              "codeName" : "SoilObsDep",
+              "definition" : "Depth to maximum soil observation (cm), includes frost probe depth",
+              "dataType" : "Integer",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilFrost",
+              "codeName" : "SoilFrost",
+              "definition" : "Permafrost present yes/no/unknown",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilStrat",
+              "codeName" : "SoilStrat",
+              "definition" : "Soil stratigraphy described on form, y or n",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilSample",
+              "codeName" : "SoilSample",
+              "definition" : "Soil samples were collected, y or n",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilMethod",
+              "codeName" : "SoilMethod",
+              "definition" : "Soil sampling or description method, see REF_SampleMeth for complete list",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilClassFld",
+              "codeName" : "SoilClassFld",
+              "definition" : "Soil taxonomy code used in the field or time of survey, NRCS class",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "SoilClass2010",
+              "codeName" : "SoilClass2010",
+              "definition" : "Soil taxonomy code 2010, 11th Edition, NRCS",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "VegQual",
+              "codeName" : "VegQual",
+              "definition" : "Vegetation observation quality p=partial; d=dominants, c=complete",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "VegClass4",
+              "codeName" : "VegClass4",
+              "definition" : "Viereck Veg class 4 Final call, see reference table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "VegClass4Alt",
+              "codeName" : "VegClass4Alt",
+              "definition" : "Viereck Veg class 4 field secondary call",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "VegStruct",
+              "codeName" : "VegStruct",
+              "definition" : "Ecotype Vegetation Structure, see reference table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "VegDomSpec",
+              "codeName" : "VegDomSpec",
+              "definition" : "List of 5-7 Dominant plants using 6 letter species codes; see REF_Vegetation_Taxonomy",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "DisturbClass",
+              "codeName" : "DisturbClass",
+              "definition" : "Disturbance class, natural or human induced, see refernce table",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "EcotypeFld",
+              "codeName" : "EcotypeFld",
+              "definition" : "Ecotype code assigned in field, concatonate Physiog, TextDom, SoilMoist, SiteChem, VegStruct",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "EcotypeAggr",
+              "codeName" : "EcotypeAggr",
+              "definition" : "Aggregated ecotypes (post data- analysis)",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "Notes_fld",
+              "codeName" : "Notes_fld",
+              "definition" : "Field Notes",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "Notes_off",
+              "codeName" : "Notes_off",
+              "definition" : "Office Notes",
+              "dataType" : "Memo",
+              "allowNull" : true
+            }, {
+              "commonName" : "DataRevEnv",
+              "codeName" : "DataRevEnv",
+              "definition" : "Review done for environmental data completeness and consistency, y or no",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "DataRevSoil",
+              "codeName" : "DataRevSoil",
+              "definition" : "Soil data completeness and consistency review done, y or no",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "DataRevVeg",
+              "codeName" : "DataRevVeg",
+              "definition" : "Vegetation and ecotype data completeness and consistency review done, y or no",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "References",
+              "codeName" : "References",
+              "definition" : "Reports and publications using data",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WebSiteInfo",
+              "codeName" : "WebSiteInfo",
+              "definition" : "Site information summary in website folder",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WebSitePhotos",
+              "codeName" : "WebSitePhotos",
+              "definition" : "Site or ground photos in website folder",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WebSoilPhotos",
+              "codeName" : "WebSoilPhotos",
+              "definition" : "Soil or section photos in website folder",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WebStratDescrip",
+              "codeName" : "WebStratDescrip",
+              "definition" : "Stratigraphy or soil description in website folder",
+              "dataType" : "Text",
+              "allowNull" : true
+            }, {
+              "commonName" : "WebStratDrawing",
+              "codeName" : "WebStratDrawing",
+              "definition" : "Soil or section profile or drawing in website folder",
+              "dataType" : "Text",
+              "allowNull" : true
+            }
+          ],
+          "foreignKey" : [{
+              "localAttributeCodeName" : ["DisturbClass"],
+              "referencedEntityCodeName" : "REF_Site_Disturbance",
+              "referencedAttributeCodeName" : ["Disturb_Code"]
+            }, {
+              "localAttributeCodeName" : ["SoilDrainage"],
+              "referencedEntityCodeName" : "REF_Site_Drainage",
+              "referencedAttributeCodeName" : ["Drainage_Code"]
+            },{
+              "localAttributeCodeName" : ["SiteChem"],
+              "referencedEntityCodeName" : "REF_Site_Chemistry",
+              "referencedAttributeCodeName" : ["SiteChem_Code"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
